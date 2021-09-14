@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     dddd
+     1+1 = (답을 적어주세요)
     </div>
   );
 }
