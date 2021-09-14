@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
      1+1 = (답을 적어주세요)
+     
     </div>
   );
 }
